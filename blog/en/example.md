@@ -6,8 +6,6 @@ author: "Diego Teles"
 locale: "en"
 ---
 
-
-
 # Et abigitque se infice
 
 ## Themin parte sermo relicta
@@ -19,7 +17,8 @@ somnos Helicon opposui, pallentemque **levis Armeniae somniferam**! Et eadem
 fingant dedit tamen, est omnibus; ferunt regesta genetricis! Utroque petisset
 memores latere!
 
-    if (1 != switch_technology_sequence(16)) {
+```python
+if (1 != switch_technology_sequence(16)) {
         method = esportsRubySoap + drag;
     } else {
         thunderboltClick = raster_resolution(adslLeopard,
@@ -30,13 +29,15 @@ memores latere!
     threading = 4 / dma_srgb_prebinding;
     fiber_encoding_optical -= 65;
     activex_toolbar.mebibyteFormat(oem_reimage, winsock);
+```
 
 Tenera fatiferum favilla et comitique quarum. Puto antra gravidus! Truces
 talibus memor cum sinuataque plura succiduo hamis Tirynthius vincet, Atrides.
 Fallacia comitem *evanuit dea*, natando et subdit, ipse per possit;
 [colla](#themin-parte-sermo-relicta) post vultus convivia inobservatus.
 
-    var artSystem = motion.gnutella_server_vdu(75, printerMalware(readme));
+```python
+var artSystem = motion.gnutella_server_vdu(75, printerMalware(readme));
     spider_dock_wep += user(configuration_flash,
             compatible_horizontal_balancing, webRayInternal * 44 / 1);
     if (gigoLunSyntax - udp_serial(menu_hfs, dimm_tiger_bsod)) {
@@ -57,6 +58,7 @@ Fallacia comitem *evanuit dea*, natando et subdit, ipse per possit;
     } else {
         file.rate /= vfat + wave - rom_oem_access;
     }
+```
 
 Ripa habenas Nileus recingor quique nomine novissima
 [fecerat](#themin-parte-sermo-relicta)! Una **turba accipitrem miseros** et
