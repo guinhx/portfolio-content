@@ -1,4 +1,15 @@
 {
-  "blog": [],
+  "blog": [
+    {
+      "title": "Example",
+      "slug": "example",
+      "excerpt": "example",
+      "date": "2025-11-21",
+      "author": "Diego Teles",
+      "content": "Example",
+      "locale": "en",
+      "markdownPath": "blog/en/example.md"
+    }
+  ],
   "projects": []
 }
