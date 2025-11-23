@@ -1,4 +1,25 @@
 {
-  "blog": [],
+  "blog": [
+    {
+      "title": "Portando o Mistreevous para C#: Uma biblioteca de árvores de comportamento de alto desempenho para .NET moderno",
+      "slug": "portando-mistreevous-para-csharp",
+      "excerpt": "MistreevousSharp: biblioteca C# de behavior trees para .NET 9.0 e .NET Standard 2.1. Zero-allocation, otimizada para servidores multiplayer, Unity, Godot, robôs e drones. Compatível com MDSL e JSON.",
+      "date": "2025-11-22",
+      "author": "Diego Teles",
+      "locale": "pt",
+      "markdownPath": "blog/pt/portando-mistreevous-para-csharp.md",
+      "version": "2.0.0"
+    },
+    {
+      "title": "Porting Mistreevous to C#: A High-Performance Behavior Tree Library for Modern .NET",
+      "slug": "porting-mistreevous-to-csharp",
+      "excerpt": "MistreevousSharp: C# behavior tree library for .NET 9.0 and .NET Standard 2.1. Zero-allocation, optimized for multiplayer game servers, Unity, Godot, robots and drones. Compatible with MDSL and JSON.",
+      "date": "2025-11-22",
+      "author": "Diego Teles",
+      "locale": "en",
+      "markdownPath": "blog/en/porting-mistreevous-to-csharp.md",
+      "version": "2.0.0"
+    }
+  ],
   "projects": []
 }
