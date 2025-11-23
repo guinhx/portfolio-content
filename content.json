@@ -1,15 +1,4 @@
 {
-  "blog": [
-    {
-      "title": "Example",
-      "slug": "example",
-      "excerpt": "example",
-      "date": "2025-11-21",
-      "author": "Diego Teles",
-      "locale": "en",
-      "markdownPath": "blog/en/example.md",
-      "version": "2.0.0"
-    }
-  ],
+  "blog": [],
   "projects": []
 }
