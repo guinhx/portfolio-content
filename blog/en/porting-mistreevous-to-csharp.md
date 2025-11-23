@@ -1,5 +1,7 @@
 # **Porting Mistreevous to C#: A High-Performance Behavior Tree Library for Modern .NET**
 
+![MistreevousSharp - Behavior Tree Library for .NET](assets/mistreevous-thumb.png)
+
 When I started working on dedicated servers for multiplayer games, I faced a practical challenge: I needed server entities to have sophisticated, structured, and consistent behaviors. In single-player games, this role typically belongs to the client. In modern multiplayer games, especially with authoritative servers, AI needs to run on the server — and this completely changes the performance and architecture context.
 
 Behavior Trees were the natural solution, and the Mistreevous library, originally created in TypeScript by *nikkorn*, had the design I wanted to use: simple, modular, with a clear and extremely expressive DSL. But bringing it to the .NET ecosystem wouldn't just be translating code. It would mean reimagining its architecture for a more demanding environment, with a focus on performance, zero-allocation, and predictability.

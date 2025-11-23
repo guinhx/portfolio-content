@@ -1,5 +1,7 @@
 # **Portando o Mistreevous para C#: Uma biblioteca de árvores de comportamento de alto desempenho para .NET moderno.**
 
+![MistreevousSharp - Biblioteca de Behavior Trees para .NET](assets/mistreevous-thumb.png)
+
 Quando comecei a trabalhar em servidores dedicados para jogos multiplayer, me deparei com um desafio prático: eu precisava que entidades do servidor tivessem comportamentos sofisticados, estruturados e consistentes. Em jogos single-player, esse papel normalmente pertence ao cliente. Em jogos multiplayer modernos, especialmente com servidores de autoridade total, a IA precisa estar no servidor — e isso muda completamente o contexto de performance e arquitetura.
 
 Behavior Trees eram a solução natural, e a biblioteca Mistreevous, criada originalmente em TypeScript por *nikkorn*, tinha o design que eu queria usar: simples, modular, com uma DSL clara e extremamente expressiva. Mas trazê-la para o ecossistema .NET não seria apenas traduzir código. Seria reimaginar sua arquitetura para um ambiente mais exigente, com foco em performance, zero-alocação e previsibilidade.
