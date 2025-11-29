@@ -8,7 +8,19 @@
       "author": "Diego Teles",
       "locale": "pt",
       "markdownPath": "blog/pt/portando-mistreevous-para-csharp.md",
-      "version": "2.0.0"
+      "version": "2.0.0",
+      "keywords": [
+        "behavior trees",
+        "C#",
+        ".NET",
+        "multiplayer",
+        "Unity",
+        "Godot",
+        "robots",
+        "drones",
+        "MDSL",
+        "JSON"
+      ]
     },
     {
       "title": "Porting Mistreevous to C#: A High-Performance Behavior Tree Library for Modern .NET",
@@ -18,7 +30,71 @@
       "author": "Diego Teles",
       "locale": "en",
       "markdownPath": "blog/en/porting-mistreevous-to-csharp.md",
-      "version": "2.0.0"
+      "version": "2.0.0",
+      "keywords": [
+        "behavior trees",
+        "C#",
+        ".NET",
+        "multiplayer",
+        "Unity",
+        "Godot",
+        "robots",
+        "drones",
+        "MDSL",
+        "JSON"
+      ]
+    },
+    {
+      "title": "Porting Zod to C#: A High-Performance Schema Validation Library for .NET",
+      "slug": "porting-zod-to-csharp",
+      "excerpt": "ZodSharp: C# schema validation library for .NET 9.0 and .NET Standard 2.1. Zero-allocation, optimized for high-performance APIs, microservices, and data processing. Compatible with Zod's fluent API and design philosophy.",
+      "date": "2025-11-29",
+      "author": "Diego Teles",
+      "locale": "en",
+      "markdownPath": "blog/en/porting-zod-to-csharp.md",
+      "keywords": [
+        "zod",
+        "C#",
+        ".NET",
+        "schema validation",
+        "validation library",
+        "type safety",
+        "zero allocation",
+        "performance",
+        "API validation",
+        "microservices",
+        ".NET 9.0",
+        "fluent API",
+        "schema",
+        "data validation",
+        "C# validation"
+      ]
+    },
+    {
+      "title": "Portando Zod para C#: Uma Biblioteca de Validação de Schemas de Alto Desempenho para .NET",
+      "slug": "portando-zod-para-csharp",
+      "excerpt": "ZodSharp: biblioteca de validação de schemas em C# para .NET 9.0 e .NET Standard 2.1. Zero-allocation, otimizada para APIs de alta performance, microserviços e processamento de dados. Compatível com a API fluente e filosofia de design do Zod.",
+      "date": "2025-11-29",
+      "author": "Diego Teles",
+      "locale": "pt-BR",
+      "markdownPath": "blog/pt/portando-zod-para-csharp.md",
+      "keywords": [
+        "zod",
+        "C#",
+        ".NET",
+        "validação de schemas",
+        "biblioteca de validação",
+        "type safety",
+        "zero allocation",
+        "performance",
+        "validação de API",
+        "microserviços",
+        ".NET 9.0",
+        "API fluente",
+        "schema",
+        "validação de dados",
+        "validação C#"
+      ]
     }
   ],
   "projects": []
