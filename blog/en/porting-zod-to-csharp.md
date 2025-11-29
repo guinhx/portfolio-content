@@ -410,6 +410,6 @@ Rewriting Zod for C# was a challenging and rewarding project. More than converti
 
 The result is a modern, lightweight library ready to solve the pain that many C# developers face with reflection-based solutions, maintaining the simple and practical spirit of the original version, but with the performance that C# can offer. Finally, we have a performant and elegant alternative for schema validation in the .NET ecosystem.
 
-**GitHub:** [https://github.com/zodsharp/zodsharp](https://github.com/zodsharp/zodsharp)  
+**GitHub:** [https://github.com/guinhx/ZodSharp](https://github.com/guinhx/ZodSharp)  
 **NuGet:** [https://www.nuget.org/packages/ZodSharp](https://www.nuget.org/packages/ZodSharp)  
 **Original Zod:** [https://github.com/colinhacks/zod](https://github.com/colinhacks/zod)
