@@ -216,7 +216,6 @@ ZodSharp/
 │   ├── Program.cs
 │   └── example.csproj
 │
-├── blog/                            → Blog posts
 ├── README.md
 └── ZodSharp.sln
 ```
